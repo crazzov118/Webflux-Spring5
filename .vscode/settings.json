@@ -1,0 +1,7 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.completion.favoriteStaticMembers": [
+    "org.mockito.ArgumentMatchers.*",
+    "org.mockito.BDDMockito.*",
+  ]
+}
